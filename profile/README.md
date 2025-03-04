@@ -7,4 +7,4 @@ Andy Yu\
 Dylan Gaillard
 
 ## Overview
-This organization is for our lab assignments for 6.4200 *Robotics: Science and Systems*. The labs primarily consist of programming a robotic car to perform various tasks throughout the course.
+Our lab code for 6.4200 is *Robotics: Science and Systems*. The labs primarily involve programming a robotic car to perform various tasks throughout the course.
