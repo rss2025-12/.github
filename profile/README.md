@@ -1,8 +1,8 @@
 # Team 12 - RSS2025
 
 ## Team Members
-Amina Luvsanchultem\
 Adan Abu Naajm\
+Amina Luvsanchultem\
 Andy Yu\
 Dylan Gaillard
 
