@@ -1,4 +1,4 @@
-# Team 12 - RSS2025
+# RSS2025 - Team 12
 
 ## Team Members
 Adan Abu Naajm\
