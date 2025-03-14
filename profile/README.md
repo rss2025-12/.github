@@ -4,6 +4,7 @@
 Adan Abu Naajm\
 Amina Luvsanchultem\
 Andy Yu\
+Arthur Hu\
 Dylan Gaillard
 
 ## Overview
